@@ -1,0 +1,15 @@
+{
+  "title": "Bagasse bioelectricity market design in Brazil: derived BIOMASSA_ACL series and document log",
+  "upload_type": "dataset",
+  "description": "Derived monthly series of installed capacity, physical guarantee and generation of ACL-participating biomass plants (CCEE dataset BIOMASSA_ACL, October 2023 to July 2026), processing scripts and the log of regulatory and judicial documents reviewed, supporting a manuscript submitted to Utilities Policy. Primary source: CCEE Dados Abertos (CC BY 4.0).",
+  "creators": [
+    {"name": "Caneppele, Fernando de Lima", "affiliation": "University of São Paulo (USP)", "orcid": "0000-0003-4498-8682"},
+    {"name": "Guido, Andrea", "affiliation": "São Paulo State University (Unesp)"},
+    {"name": "Fontana, Rodolfo Yuri de Almeida", "affiliation": "University of São Paulo (USP)"},
+    {"name": "Gimenes, André Luiz Veiga", "affiliation": "University of São Paulo (USP)"},
+    {"name": "Frigo, Murilo Miceno", "affiliation": "Instituto Federal de Mato Grosso do Sul (IFMS)"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["bioelectricity", "firm energy", "market design", "Brazil", "CCEE", "sugarcane bagasse"],
+  "access_right": "open"
+}

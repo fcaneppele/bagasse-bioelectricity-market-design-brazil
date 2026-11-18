@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Bagasse bioelectricity market design in Brazil: derived BIOMASSA_ACL series and document log"
+type: dataset
+authors:
+  - family-names: Caneppele
+    given-names: Fernando de Lima
+    orcid: "https://orcid.org/0000-0003-4498-8682"
+    affiliation: "University of São Paulo (USP)"
+  - family-names: Guido
+    given-names: Andrea
+    affiliation: "São Paulo State University (Unesp)"
+  - family-names: Fontana
+    given-names: Rodolfo Yuri de Almeida
+    affiliation: "University of São Paulo (USP)"
+  - family-names: Gimenes
+    given-names: André Luiz Veiga
+    affiliation: "University of São Paulo (USP)"
+  - family-names: Frigo
+    given-names: Murilo Miceno
+    affiliation: "Instituto Federal de Mato Grosso do Sul (IFMS)"
+repository-code: "https://github.com/fcaneppele/bagasse-bioelectricity-market-design-brazil"
+license: CC-BY-4.0
+version: "1.0.0"
