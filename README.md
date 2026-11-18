@@ -69,4 +69,7 @@ Code: MIT (see `LICENSE`). Derived data and documentation: CC BY 4.0. Raw CCEE d
 
 ## Citation
 
-See `CITATION.cff`. Archived on Zenodo: DOI to be added after the first release.
+See `CITATION.cff`. Archived on Zenodo: version 1.0.0, [10.5281/zenodo.24327807](https://doi.org/10.5281/zenodo.24327807)
+(all versions: [10.5281/zenodo.24327806](https://doi.org/10.5281/zenodo.24327806)).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24327807.svg)](https://doi.org/10.5281/zenodo.24327807)
